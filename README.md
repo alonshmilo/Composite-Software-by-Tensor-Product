@@ -6,14 +6,15 @@ Bachelor of B.Sc in Software Engineering at JCE - Azrilei Jerusalem College of E
 
 ### Discalimer
 <p>
-In this Project I will have research on Software composite using Tensor product on Quantum Calculation. <br>
-The project is taking place at JCE in 2018-2019 and is guided by the head of the M.Sc of SE program at JCE Prof. Iakkov Exman.
+* In this Project I will have research on Software composite using Tensor product on Quantum Calculation.
+* The project is taking place at JCE in 2018-2019.
+* Guided by the head of the M.Sc of SE program at JCE Prof. Iakkov Exman.
 
 ### Staff
+[![Alon](https://avatars1.githubusercontent.com/u/17544440?v=3&s=80)](https://github.com/alonshmilo)
+Academic Advisor: Prof. Iakkov Exman
 
-
-### Issue Board
-
+### [Issue Board](https://huboard.com/alonshmilo/Composite-Software-by-Tensor-Product/)
 
 ### Project Schedule
 
