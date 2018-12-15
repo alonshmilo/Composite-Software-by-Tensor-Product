@@ -13,9 +13,7 @@ Bachelor of B.Sc in Software Engineering at JCE - Azrilei Jerusalem College of E
 [![Alon](https://avatars1.githubusercontent.com/u/17544440?v=3&s=80)](https://github.com/alonshmilo) <br>
 Academic Advisor: Prof. Iakkov Exman
 
-## [Issue Board](https://huboard.com/alonshmilo/Composite-Software-by-Tensor-Product/){:target="_blank"}
-
-## <a href="https://huboard.com/alonshmilo/Composite-Software-by-Tensor-Product/" target="_blank">Issue Board</a>
+## [Issue Board](https://huboard.com/alonshmilo/Composite-Software-by-Tensor-Product/)
 
 ## Project Schedule
 
