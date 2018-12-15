@@ -15,6 +15,8 @@ Academic Advisor: Prof. Iakkov Exman
 
 ## [Issue Board](https://huboard.com/alonshmilo/Composite-Software-by-Tensor-Product/){:target="_blank"}
 
+## <a href="https://huboard.com/alonshmilo/Composite-Software-by-Tensor-Product/" target="_blank">Issue Board</a>
+
 ## Project Schedule
 
 
